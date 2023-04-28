@@ -2,3 +2,4 @@ lambda_function_code
 *.egg-info
 artifacts
 venv
+logs
