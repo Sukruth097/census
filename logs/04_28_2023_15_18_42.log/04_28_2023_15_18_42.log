@@ -1,3 +1,0 @@
-[2023-04-28 15:19:05,301]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:initiate_data_ingestion -['line_no']:51 - Data Ingestion has started
-[2023-04-28 15:19:05,303]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:26 - The Mongodb Collection has been succesfully built
-[2023-04-28 15:20:00,301]: INFO -['User_Name':Sukruth]: -['filename']:clientserver.py -['function_name']:close -['line_no']:543 - Closing down clientserver connection

@@ -1,3 +1,0 @@
-[2023-04-28 16:52:13,969]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:initiate_data_ingestion -['line_no']:52 - Data Ingestion has started
-[2023-04-28 16:52:23,175]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:26 - The Mongodb Collection has been succesfully built
-[2023-04-28 16:56:59,242]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:34 - The length of the data is 49881

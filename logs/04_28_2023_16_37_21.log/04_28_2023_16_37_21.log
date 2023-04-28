@@ -1,4 +1,0 @@
-[2023-04-28 16:37:32,983]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:initiate_data_ingestion -['line_no']:55 - Data Ingestion has started
-[2023-04-28 16:37:32,984]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:26 - The Mongodb Collection has been succesfully built
-[2023-04-28 16:38:32,454]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:37 - The length of the data is 49881
-[2023-04-28 16:38:46,139]: INFO -['User_Name':Sukruth]: -['filename']:clientserver.py -['function_name']:close -['line_no']:543 - Closing down clientserver connection
