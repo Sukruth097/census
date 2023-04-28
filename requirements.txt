@@ -1,0 +1,5 @@
+pymongo[srv]
+boto3
+pyarrow
+pyspark
+-e .

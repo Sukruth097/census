@@ -1,0 +1,2 @@
+[2023-04-28 15:37:09,613]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:initiate_data_ingestion -['line_no']:55 - Data Ingestion has started
+[2023-04-28 15:37:21,569]: INFO -['User_Name':Sukruth]: -['filename']:data_ingestion.py -['function_name']:download_mongo_data_to_parquet -['line_no']:26 - The Mongodb Collection has been succesfully built
