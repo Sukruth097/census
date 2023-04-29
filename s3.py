@@ -4,8 +4,8 @@ import os
 
 client = boto3.client(
     's3',
-    aws_access_key_id="AKIAYNZZRFUVQQM7OHXP",
-    aws_secret_access_key="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",
+    aws_access_key_id="",
+    aws_secret_access_key="",
 )
 
 # response = client.get_object(
